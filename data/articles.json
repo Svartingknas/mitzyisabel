@@ -1,0 +1,56 @@
+{
+    "0" :{
+    "image":"http://placehold.it/300/ccc?text=1",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "author": "Richard Singer",
+    "articleDate": "02/12/17"
+    },
+    "1" :{
+    "image":"http://placehold.it/300/ccc?text=2",
+    "text": "reprehenderit in voluptate velit esse cillum dolore eu",
+    "author": "Mike Jackson",
+    "articleDate": "02/12/17"
+    },
+    "2" :{
+    "image":"http://placehold.it/300/ccc?text=3",
+    "text": "nostrud exercitation ullamco laboris nisi ut aliquip ex",
+    "author": "Thomas Panda",
+    "articleDate": "02/12/17"
+    },
+    "3" :{
+    "image":"http://placehold.it/300/ccc?text=4",
+    "text": "ea commodo consequat. Duis aute irure dolor in",
+    "author": "Drew Warren",
+    "articleDate": "02/12/17"
+    },
+    "4" :{
+    "image":"http://placehold.it/300/ccc?text=5",
+    "text": "Lorem ipsum dolor sit amet consectetur Duis aute irure dolor",
+    "author": "Ashley LaMar",
+    "articleDate": "02/12/17"
+    },
+    "5" :{
+    "image":"http://placehold.it/300/ccc?text=6",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate",
+    "author": "Kevin Utah",
+    "articleDate": "02/12/17"
+    },
+    "6" :{
+    "image":"http://placehold.it/300/ccc?text=7",
+    "text": "Excepteur sint occaecat cupidatat non proident",
+    "author": "Joni M",
+    "articleDate": "02/12/17"
+    },
+    "7" :{
+    "image":"http://placehold.it/300/ccc?text=8",
+    "text": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Matt Sadaukas",
+    "articleDate": "02/12/17"
+  },
+    "8" :{
+    "image":"http://placehold.it/300/ccc?text=9",
+    "text": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "author": "Sergio Morales",
+    "articleDate": "02/12/17"
+  }
+}
