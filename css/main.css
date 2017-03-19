@@ -155,7 +155,7 @@ blockquote:first-of-type{
 
 #services .fa-paint-brush {width: 64px;}
 #services .fa-code {width: 68px}
-#services h2 {margin: 1em 0;}
+#services h2, p {margin: 1em 0;text-align: center;}
 
 #services div {
   display: none;
