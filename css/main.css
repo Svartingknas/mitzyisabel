@@ -92,6 +92,7 @@ hr {
 input, select {
     vertical-align:middle;
 }
+/*end css reset*/
 
 #header{
   background: url('../images/section1.jpg') no-repeat center fixed;
@@ -140,7 +141,7 @@ blockquote{
 blockquote:first-of-type{
   display: block;
 }
-
+/*services*/
 #services{
   height: 350px;
   border-top: 1px solid #ccc;
@@ -151,17 +152,18 @@ blockquote:first-of-type{
   margin: auto;
   width: 45px;
 }
+#services .design{justify-content: center;}
 #services .fa-paint-brush {width: 64px;}
 #services .fa-code {width: 68px}
 #services h2 {margin: 1em 0;}
 
-/*#services i {
+#services div {
   display: none;
 }
 
-#services i:first-of-type{
+#services div:first-of-type{
   display: block;
-}*/
+}
 
 #works{
   background: url('../images/section4.jpg') no-repeat center fixed;
