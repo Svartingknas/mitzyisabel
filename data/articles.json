@@ -2,55 +2,46 @@
     "0" :{
     "image":"http://placehold.it/300/ccc?text=1",
     "text": "Lorem ipsum dolor sit amet consectetur",
-    "author": "Richard Singer",
-    "articleDate": "02/12/17"
+    "blockquote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.laborum."
     },
     "1" :{
     "image":"http://placehold.it/300/ccc?text=2",
     "text": "reprehenderit in voluptate velit esse cillum dolore eu",
-    "author": "Mike Jackson",
-    "articleDate": "02/12/17"
+    "blockquote": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
     },
     "2" :{
     "image":"http://placehold.it/300/ccc?text=3",
     "text": "nostrud exercitation ullamco laboris nisi ut aliquip ex",
-    "author": "Thomas Panda",
-    "articleDate": "02/12/17"
+    "blockquote": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est"
     },
     "3" :{
     "image":"http://placehold.it/300/ccc?text=4",
     "text": "ea commodo consequat. Duis aute irure dolor in",
-    "author": "Drew Warren",
-    "articleDate": "02/12/17"
+    "blockquote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.laborum."
     },
     "4" :{
     "image":"http://placehold.it/300/ccc?text=5",
     "text": "Lorem ipsum dolor sit amet consectetur Duis aute irure dolor",
-    "author": "Ashley LaMar",
-    "articleDate": "02/12/17"
+    "blockquote": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
     },
     "5" :{
     "image":"http://placehold.it/300/ccc?text=6",
     "text": "Duis aute irure dolor in reprehenderit in voluptate",
-    "author": "Kevin Utah",
-    "articleDate": "02/12/17"
+    "blockquote": "quatis alique mos et aut occae cum, veliquaspit quo quam, si idem reprorisqui doluptatur accum si sunt ut officiisto enecab id et aut es et l"
     },
     "6" :{
     "image":"http://placehold.it/300/ccc?text=7",
     "text": "Excepteur sint occaecat cupidatat non proident",
-    "author": "Joni M",
-    "articleDate": "02/12/17"
+    "blockquote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.laborum."
     },
     "7" :{
     "image":"http://placehold.it/300/ccc?text=8",
     "text": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "author": "Matt Sadaukas",
-    "articleDate": "02/12/17"
+    "blockquote": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
   },
     "8" :{
     "image":"http://placehold.it/300/ccc?text=9",
     "text": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "author": "Sergio Morales",
-    "articleDate": "02/12/17"
+    "blockquote": "quatis alique mos et aut occae cum, veliquaspit quo quam, si idem reprorisqui doluptatur accum si sunt ut officiisto enecab id et aut es et l"
   }
 }

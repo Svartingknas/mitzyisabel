@@ -97,8 +97,17 @@ input, select {
   background: url('../images/section1.jpg') no-repeat center fixed;
   background-size: cover;
   height: 700px;
-
 }
+.title{
+  padding-top: 15%;
+}
+.title > h1{
+  text-align: center;
+  text-shadow: 2px 1px 2px #000;
+  font-size: 5em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
 #about{
   background: url('../images/section2.jpg') no-repeat center fixed;
   height: 700px;
@@ -132,12 +141,6 @@ blockquote:first-of-type{
   display: block;
 }
 
-#wss{
-  opacity: 0;
-  -webkit-transition:opacity 1.0s linear 0s;
-  transition:opacity 1.0s linear 0s;
-}
-
 #services{
   height: 350px;
   border-top: 1px solid #ccc;
@@ -151,6 +154,14 @@ blockquote:first-of-type{
 #services .fa-paint-brush {width: 64px;}
 #services .fa-code {width: 68px}
 #services h2 {margin: 1em 0;}
+
+/*#services i {
+  display: none;
+}
+
+#services i:first-of-type{
+  display: block;
+}*/
 
 #works{
   background: url('../images/section4.jpg') no-repeat center fixed;

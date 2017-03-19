@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+  //
   // function handleError(jqXHR, textStatus, error){
   //   console.log(error);
   // };
@@ -27,14 +27,13 @@ $(document).ready(function(){
 
     function replaceItems (data) {
       for (let i in data) {
-        var id = data[i].image;
+        var id = data[i];
         var carouselId = "carousel-" + i;
         var carouselItem = document.getElementById(carouselId)
         carouselItem.innerHTML =
         `<a href="#" class="thumbnail"><img src="`+data[i].image+`" class="img-fluid" alt="Image" style="max-width:100%;"></a>
         <div class="carousel-caption d-none d-sm-block py-3">
          <h6>`+data[i].text+`</h6>
-         <p>`+data[i].author+`: `+data[i].articleDate+`</p>
        </div>`
       }
     }
