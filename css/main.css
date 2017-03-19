@@ -99,6 +99,13 @@ input, select {
   background-size: cover;
   height: 700px;
 }
+#header button{
+  margin: 10px;
+  background-color: ;
+}
+#header a{
+  color: inherit;
+}
 .title{
   padding-top: 15%;
 }
